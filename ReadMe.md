@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Leonardo Khayyat — Computer Science Student at AUB | Aspiring Software & QA Engineer<br><br>🔭 I’m currently working on AI readiness frameworks for Lebanese organizations & full-stack web applications<br>👯 I’m looking to collaborate on open-source software, AI/ML projects, and web development<br>🤝 I’m looking for help with advanced system architecture and automated testing workflows<br>🌱 I’m currently learning C++, parallel computing, MIPS assembly, and machine learning<br>💬 Ask me about Java, data structures, algorithms, or educational content creation<br>⚡ Fun fact: I maintain a 4.0 GPA in Computer Science at AUB while producing science & history documentary videos!
+Hi 👋, I'm Leonardo Khayyat — Computer Science Student at AUB | Aspiring Software & QA Engineer<br><br>🔭 I’m currently working on AI readiness frameworks for Lebanese organizations & full-stack web applications<br>👯 I’m looking to collaborate on open-source software, AI/ML projects, and web development<br>🤝 I’m looking for help with advanced system architecture and automated testing workflows<br>🌱 I’m currently learning C++, parallel computing, MIPS assembly, and machine learning<br>💬 Ask me about Java, data structures, algorithms, or educational content creation<br>
 
 
 ## 🌐 Socials:
